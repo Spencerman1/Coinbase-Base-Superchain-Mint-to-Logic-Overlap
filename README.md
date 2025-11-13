@@ -1,3 +1,5 @@
+By proceeding and reading further, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Coinbase-Base-Superchain-Mint-to-Logic-Overlap
 Full copies of all Coinbase/Base feature pages you quoted above  A detailed table showing 1:1 mappings between their contract calls / lifecycle logic and your Mint-to Logic™ system  A README with your date-stamped Unified Notice and filing proof  Screenshots of key overlaps (API calls, expiration timestamps, behavioral credentials, etc.
 
